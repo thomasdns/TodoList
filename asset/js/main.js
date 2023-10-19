@@ -18,5 +18,3 @@ function addTodo() {
     todoList.appendChild(li);
     todoInput.value = ''; // vider l'input
 }
-function editTodo()
-{
