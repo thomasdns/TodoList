@@ -44,7 +44,7 @@ ul {
     padding: 0;
 }
 
-li span[style ="line-through"] {
+li span[style*="line-through"] {
     color: gray;
     opacity: 0.7;
 }
